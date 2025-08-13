@@ -8,4 +8,5 @@ Create an untracked file called `__auth__` and assign your FRED API key to `api_
 `app.endpoint` and `app.payload` demonstrate a sample usage via `response.content`.
 
 https://fred.stlouisfed.org/docs/api/fred/
+
 https://fred.stlouisfed.org/docs/api/api_key.html
